@@ -1,3 +1,4 @@
+Click-Through Rate Prediction on Criteo based on DCN and xDeepFM with self-Attention
 python train.py -n Model_name(e.g. DCN)
 1、数据criteo点击率预估
 2、utils基于pandas的数据处理
