@@ -4,4 +4,4 @@ python train.py -n Model_name(e.g. DCN)
 3、train是基于2的模型训练
 4、train_search_params采用Hyperband(2019)进行自动调参
 5、train_tf_processing基于tensorflow的数据读取
-6、模型包括DCN,DCN-V2,xDeepFM和加入Attention的改进，部分代码参考https://github.com/jc-LeeHub/Recommend-System-tf2.0
+6、模型包括DCN,DCN-V2,xDeepFM和加入Attention的改进，部分模型代码参考https://github.com/jc-LeeHub/Recommend-System-tf2.0
